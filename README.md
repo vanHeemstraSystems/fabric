@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+fabric
+# Fabric
 
-Based on "ABC" at https://www.abc.com/
+> Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+
+Based on "Fabric: The Best AI Tool That Nobody is Talking About" at https://www.youtube.com/watch?v=2fj2R6vK6O0
 
 ## 100 - Introduction
 
