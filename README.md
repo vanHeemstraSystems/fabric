@@ -5,6 +5,8 @@ fabric
 
 Based on "Fabric: The Best AI Tool That Nobody is Talking About" at https://www.youtube.com/watch?v=2fj2R6vK6O0
 
+Based on "Fabric: The Best AI Integration Tool For Obsidian" at https://www.youtube.com/watch?v=TIXNqBzx3O0
+
 Based on "Getting Started with Groq API: The Fastest Ever Inference Endpoint" at https://www.analyticsvidhya.com/blog/2024/03/getting-started-with-groq-api/
 
 ## 100 - Introduction
